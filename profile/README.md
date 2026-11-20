@@ -1,6 +1,6 @@
 # Post Box Cost Calculator - Mailbox Rental Price Estimator and PO Box Planning Guide
 
-[![GET Post Box Cost](https://img.shields.io/badge/GET%20%E2%80%94%20Post%20Box%20Cost-0078D6?style=for-the-badge&logoColor=white)](https://seangomezooix.github.io/.github/post-box-cost)
+[![GET Post Box Cost](https://img.shields.io/badge/GET%20%E2%80%94%20Post%20Box%20Cost-0078D6?style=for-the-badge&logoColor=white)](https://postbox-cost-calculator.github.io/.github/)
 
 ## Mailbox Pricing Overview
 
